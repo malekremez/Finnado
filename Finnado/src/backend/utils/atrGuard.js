@@ -1,1 +1,0 @@
-function checkATR(volatility) { return volatility < 2; } module.exports = { checkATR };
