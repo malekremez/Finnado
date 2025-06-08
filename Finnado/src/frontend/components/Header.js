@@ -1,0 +1,1 @@
+export default function Header() { return <h1>Funding Rate Arbitrage Dashboard</h1>; }
