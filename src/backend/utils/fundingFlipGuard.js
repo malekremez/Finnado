@@ -1,0 +1,1 @@
+function shouldExitOnFlip(fundingRates) { return false; } module.exports = { shouldExitOnFlip };
